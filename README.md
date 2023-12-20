@@ -9,6 +9,7 @@ This repository contains resources related to the UART project. The UART project
 # Contents
 
 * `UARTmcu1.c` : Main function for microcontroller 1
+* `UARTmcu2.c` : Main function for microcontroller 2
 * `UART` : Initialization for UART 0 serial port communication
 * `UART1` : Initialization for UART 1 communication
 * `PLL` : Phase lock loop for system clock
